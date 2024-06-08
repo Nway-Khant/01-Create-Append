@@ -51,10 +51,10 @@ favoriteEl.setAttribute("style", "font-size:20px;");
 // Add styling to list element
 listEl.setAttribute("style", "background:#333333; padding:20px;");
 // Add styling to list items
-li1.setAttribute("style", " color:white; background:#666666; padding:5px; margin-left:35px;");
-li2.setAttribute("style", " color:white; background:#777777; padding:5px; margin-left:35px;");
-li3.setAttribute("style", " color:white; background:#888888; padding:5px; margin-left:35px;");
-li4.setAttribute("style", " color:white; background:#999999; padding:5px; margin-left:35px;");
+li1.setAttribute("style", " color:white; background: hsl(34, 45%, 45%); padding:5px; margin-left:35px;");
+li2.setAttribute("style", " color:white; background: hwb(293 7% 65% / 0.623); padding:5px; margin-left:35px;");
+li3.setAttribute("style", " color:white; background: hwb(150 24% 22% / 0.623); padding:5px; margin-left:35px;");
+li4.setAttribute("style", " color:white; background: hwb(56 3% 50% / 0.623); padding:5px; margin-left:35px;");
 
 
 
